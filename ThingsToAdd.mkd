@@ -1,0 +1,6 @@
+- Remove the reassignment block after the incident is closed even for admin.
+- Limit the activity log in overview tab to display limited recent logs only.
+- Create a separate tab to see the detailed logs and download them as well.
+- Provide a meanigful use to incidents tab as compared to incident queue.
+- Provide more things to be done by admin on analysts tab.
+- Add change password option in settings along with changing username.
